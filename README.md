@@ -6,6 +6,7 @@ R script for statistical analysis and figure generation from a two-treatment cho
 
 ## Study Overview
 
+All data were collected on the island of Millport (Scotland) by Joel Betteridge, Anne Strevens and William Grimsdell.
 This experiment tested whether *L. littorea* would avoid *A. equina* in a controlled choice test. Five snails were placed in a glass tank containing either real beadlet anemones (anemone treatment) or water only (control). Snail positions were scored at 10-minute intervals over 30 minutes using a positional scoring system (see below).
 
 **Scoring system:**
@@ -93,7 +94,3 @@ All tests are non-parametric, appropriate for the bounded ordinal score (-5 to +
 | `Count` | Final 30-min sum score for that trial |
 
 ---
-
-## Author
-
-BIO00036I Practical Ecology — University of York, 2025–26
