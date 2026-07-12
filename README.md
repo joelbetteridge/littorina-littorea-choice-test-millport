@@ -1,3 +1,6 @@
+<img width="638" height="581" alt="image" src="https://github.com/user-attachments/assets/40ae47e9-fec3-4cfe-8ec5-45c74aa25f27" />
+<img width="697" height="581" alt="image" src="https://github.com/user-attachments/assets/e89cbec3-66b0-4318-a010-ed56fb354095" />
+
 # Flat Periwinkle (*Littorina littorea*) Choice Test Analysis
 
 R script for statistical analysis and figure generation from a two-treatment choice test examining behavioural responses of flat periwinkles to beadlet anemones (*Actinia equina*).
