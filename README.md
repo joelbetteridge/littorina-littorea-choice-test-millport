@@ -1,6 +1,3 @@
-<img width="638" height="581" alt="image" src="https://github.com/user-attachments/assets/40ae47e9-fec3-4cfe-8ec5-45c74aa25f27" />
-<img width="697" height="581" alt="image" src="https://github.com/user-attachments/assets/e89cbec3-66b0-4318-a010-ed56fb354095" />
-
 # Flat Periwinkle (*Littorina littorea*) Choice Test Analysis
 
 R script for statistical analysis and figure generation from a two-treatment choice test examining behavioural responses of flat periwinkles to beadlet anemones (*Actinia equina*).
@@ -9,8 +6,10 @@ R script for statistical analysis and figure generation from a two-treatment cho
 
 ## Study Overview
 
-All data were collected on the island of Millport (Scotland) by Joel Betteridge, Anne Strevens and William Grimsdell.
+All data was personally collected on the island of Millport (Scotland) by Joel Betteridge, Anne Strevens and William Grimsdell.
 This experiment tested whether *L. littorea* would avoid *A. equina* in a controlled choice test. Five snails were placed in a glass tank containing either real beadlet anemones (anemone treatment) or water only (control). Snail positions were scored at 10-minute intervals over 30 minutes using a positional scoring system (see below).
+
+The entire experimental plan was designed in a a small group during my second year practical ecology module workshops before the field trip to Millport. Post-data collection, we were given 3 days to individually create our results in R alongside writing a small findings report. Final grade = 83%
 
 **Scoring system:**
 
@@ -97,3 +96,8 @@ All tests are non-parametric, appropriate for the bounded ordinal score (-5 to +
 | `Count` | Final 30-min sum score for that trial |
 
 ---
+
+## Author
+
+**Joel Betteridge**  
+University of York, BSc Ecology (Second Year)
